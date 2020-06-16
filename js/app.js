@@ -5,3 +5,7 @@ function primerCommit() {
 function segundoCommit(){
     console.log("hello");
 }
+
+function funcionalidad1(){
+    console.log("terminado");
+}
